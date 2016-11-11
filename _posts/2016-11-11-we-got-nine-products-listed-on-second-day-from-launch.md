@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Cashew Hub Launch"
+title: "Update: 9 products listed on 2nd day from launch"
 date: 2016-11-09
 ---
 <div class="blurb">
