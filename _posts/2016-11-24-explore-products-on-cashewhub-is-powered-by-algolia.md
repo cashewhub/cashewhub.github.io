@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Update: 9 products listed on 2nd day from launch"
+title: "Now explore products page on cashewhub.com is powered by Algolia"
 date: 2016-11-24
 ---
 <div class="blurb">
