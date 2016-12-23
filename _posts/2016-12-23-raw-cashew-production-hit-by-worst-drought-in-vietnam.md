@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Raw Cashew production hit by worst drought in Vietnam"
+date: 2016-12-23
+---
+<div class="blurb">
+  <h2>Raw Cashew production hit by worst drought in Vietnam</h2>
+  <h3>Crop shrinks 11% as world sales grow faster than any other nut </h3>
+  <p>The global popularity of the kidney-shaped nut has been growing faster than any other tree nut -- even almonds. Demand jumped 53 percent since 2010 and outpaced production in at least four of the past seven years, industry data show. Now the worst drought in a century for Vietnam, the largest exporter, is raising concern that supplies will be even tighter in a market valued at $5.2 billion.</p>
+  <p>A lack of rain in the once-fertile Mekong Delta and elsewhere in Vietnam has cut output of its major agricultural exports including rice, black pepper, coffee and seafood. This year’s cashew harvest fell 11 percent, and domestic prices jumped by as much as a third to an all-time high, a growers’ group estimates.</p>
+  <p>"There’s been no year like this year,” Nguyen Duc Thanh, chairman of the Vietnam Cashew Association, said during an interview in Ho Chi Minh City. Prices probably will remain high until the next harvest arrives early next year, said Thanh, who has been in the industry for three decades.</p>
+  <p>While peanuts, which grow underground, are by far the most popular in the nut world, cashews have overtaken walnuts and pistachios in recent years to trail only almonds in the $30 billion market for tree nuts, International Nut and Dried Fruit Council data show. Global cashew consumption in 2014, the most-recent data available, reached a record 716,682 metric tons, up from 469,241 tons in 2010, council data show.<br/>A quarter of all shipments end up in the U.S., to be eaten as a snack or used to make foods like protein bars and cashew milk. India accounts for almost a third of global consumption and is the second-largest exporter. Ivory Coast ranks No. 2 in production, followed by Vietnam.</p>
+  <p>In Binh Phuoc province, home to more than half of Vietnam’s crop, 45-year-old Hoang Thuy Duong says he got just 8 metric tons (17,640 pounds) this year, compared with his usual average of 11 tons. The drought “has stunted many of my cashew trees, keeping them from producing buds, much less flowers,” said Duong, who has spent more than two decades farming 4 hectares (9.9 acres).<br />To be sure, Vietnam’s cashew industry isn’t completely dependent upon local farmers. About two thirds of what it processes was grown somewhere else. West Africa accounted for about 46 percent of the world’s cashews in 2015, and most of those nuts are processed in India, Vietnam or Brazil.</p>
+  <p>So, even with a smaller domestic crop, Vietnam’s exports probably will rise this year, partly because of a big jump in production from Ivory Coast. Vietnam may import about 800,000 tons of raw nuts in the shell this year, twice the amount grown locally, according to Thanh of the cashew association. While the country accounts for about 15 percent of global production, it supplied 58 percent of exports in 2014.</p>
+  <h4>Use cashewhub.com as your technology partner in producing, selling, buying all cashew products. We help you reach global markets faster.</h4>
+  <p><span style="font-size:81%;color:#aaa;">Source: https://www.bloomberg.com/news/articles/2016-10-31/snack-food-sticker-shock-for-cashew-eaters-after-vietnam-drought</span></p>
+</div>
